@@ -1,5 +1,9 @@
 <h1>Reserve Site Buy Ticket</h1>
-<hr><p>The project is an interactive cinema seat selection application built with HTML, CSS, and JavaScript, allowing users to select and book available seats in a cinema hall in real-time.</p><h2>General Information</h2>
+<hr><p>The project is an interactive cinema seat selection application built with HTML, CSS, and JavaScript, allowing users to select and book available seats in a cinema hall in real-time.</p>
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/8P0kWs76/Ekran-kli-2024-12-16-171802.png"  />
+</div>
+<h2>General Information</h2>
 <hr><ul>
 <li>This project is a cinema seat selection system developed using HTML, CSS, and JavaScript. It allows users to view a seating chart of a cinema hall, select available seats, and book them. The application provides real-time seat availability updates, shows a booking summary, and calculates the total price based on selected seats. It also features an interactive and responsive design, ensuring a smooth experience across various devices, with the option to confirm or clear seat selections.</li>
 </ul><h2>Technologies Used</h2>
